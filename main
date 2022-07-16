@@ -1,0 +1,28 @@
+// /* Welcome to nodeJS traning, My main aim from this trining is to grqab all the info and use it in our slack bot as well as in Front end Engineering 
+
+// DAY 1:
+//     1. Basic intro of NodeJS
+//     2. Basic programming structure 
+//     3. How to write basic Function in NodeJS
+//     3. Uses of export
+//     4. Usaes of file hanling
+//     5. Module related concept
+// */    
+
+
+
+
+//console.log(`Hey, Super module`);
+/*
+function myFunc(a,b,c){
+    d=a+b+c
+    return d
+}
+
+var result = myFunc(1,2,3)
+
+console.log("Sum of all the number defined inside function is:", + result)
+console.log("Sum of all the number defined inside function is without comma:" + result)
+console.log(result)
+
+*/
